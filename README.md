@@ -9,4 +9,4 @@ Repository to track my progress and keep an log of all concepts i learn.
 
 ## Folders
 
-- [/sql(./sql)]: SQL learning logs and exercises.
+- [/sql](./sql): SQL learning logs and exercises.
